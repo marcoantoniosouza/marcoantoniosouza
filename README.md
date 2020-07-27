@@ -1,7 +1,3 @@
-# Marco Antonio Pereira de Souza
-### Desenvolvedor Fullstack
----
-
 ## Educação
 * **Ensino Médio Técnico:** Técnico em Informática (*2007-2010*) - IFAL
 * **Ensino Superior**: Ciência da Computação (*Cursando*) - UFAL
