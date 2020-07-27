@@ -1,11 +1,7 @@
 ## Educação
 * **Ensino Médio Técnico:** Técnico em Informática (*2007-2010*) - IFAL
 * **Ensino Superior**: Ciência da Computação (*Cursando*) - UFAL
-
-## Idiomas
-* Português (*Nativo*)
-* Inglês (*Avançado*)
-* Espanhol (*Básico*)
+* **Idiomas**: Português (*Nativo*), Inglês (*Avançado*) e Espanhol (*Básico*)
 
 ## Experiência
 * **Desenvolvedor Back-end JR** em **OFM System** (*Março/2019 - Abril/2020*)
