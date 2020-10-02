@@ -4,6 +4,9 @@
 * **Idiomas**: Português (*Nativo*), Inglês (*Avançado*) e Espanhol (*Básico*)
 
 ## Experiência
+* **Desenvolvedor Backend** em **Labbit Space** (Agosto/2020 - Atualmente)
+    * **Tecnologia Primária**: Typescript
+    * Tecnologias Secundárias: MongoDB, Docker e Kubernetes
 * **Desenvolvedor Back-end JR** em **OFM System** (*Março/2019 - Abril/2020*)
     * **Tecnologia Primária**: PL/SQL
     * Tecnologias Secundárias: Java, Laravel, Javascript, Oracle APEX, Python e Apache
