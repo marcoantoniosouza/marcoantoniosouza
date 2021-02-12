@@ -4,7 +4,10 @@
 * **Idiomas**: Português (*Nativo*), Inglês (*Avançado*) e Espanhol (*Básico*)
 
 ## Experiência
-* **Desenvolvedor Backend** em **Labbit Space** (Agosto/2020 - Atualmente)
+* **Desenvolvedor FullStack** em **UNIMED Maceió** (Janeiro/2021 - Atualmente)
+    * **Tecnologia Primária**: PL/SQL, Node, Vue.js
+    * Tecnologias Secundárias: Java, Docker e WSL
+* **Desenvolvedor Backend** em **Labbit Space** (*Agosto/2020 - Dezembro/2020*)
     * **Tecnologia Primária**: Typescript
     * Tecnologias Secundárias: MongoDB, Docker e Kubernetes
 * **Desenvolvedor Back-end JR** em **OFM System** (*Março/2019 - Abril/2020*)
