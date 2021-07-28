@@ -4,7 +4,11 @@
 * **Idiomas**: Português (*Nativo*), Inglês (*Avançado*) e Espanhol (*Básico*)
 
 ## Experiência
-* **Desenvolvedor FullStack** em **UNIMED Maceió** (Janeiro/2021 - Atualmente)
+
+* **Desenvolvedor de Sistemas** em **AMcom** (Junho/2021 - Atualmente)
+    * **Tecnologia Primária**: PL/SQL, Java, Javascript
+    * Tecnologias Secundárias: Apache Camel, Docker e Kibana
+* **Desenvolvedor FullStack** em **UNIMED Maceió** (Janeiro/2021 - Junho/2021)
     * **Tecnologia Primária**: PL/SQL, Node, Vue.js
     * Tecnologias Secundárias: Java, Docker e WSL
 * **Desenvolvedor Backend** em **Labbit Space** (*Agosto/2020 - Dezembro/2020*)
